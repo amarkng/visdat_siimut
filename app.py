@@ -294,7 +294,7 @@ Berdasarkan analisis data transaksi Transjakarta tahun 2023, beberapa temuan uta
    - {other_payment_text}
 
 4. **Distribusi Pengguna Berdasarkan Jenis Kelamin:**
-   - Pada pagi hari (06:00-09:00), pengguna **laki-laki** lebih dominan, khususnya pada **Koridor 1**, yang merupakan koridor utama.
+   - Pada pagi hari (06:00-09:00), pengguna **laki-laki** lebih dominan.
    - Sebaliknya, pada sore hari (16:00-19:00), proporsi pengguna **perempuan** meningkat, terutama pada koridor-koridor yang menghubungkan kawasan pusat kota dan lokasi-lokasi perbelanjaan, seperti **Halte Blok M**.
 
 **Rekomendasi:**
